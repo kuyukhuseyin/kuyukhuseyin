@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Huseyin Kuyuk</h1>
-<h3 align="center">A passionate frontend developer.</h3>
-
-- 🔭 I’m currently working on [Vispeahen](https://tr.vispeahen.com)
 
 - 📫 How to reach me **kuyukhuseyin@outlook.com**
 
