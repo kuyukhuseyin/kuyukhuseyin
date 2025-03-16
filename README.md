@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Huseyin Kuyuk</h1>
-
 - 📫 How to reach me **kuyukhuseyin@outlook.com**
 
 <p align="left">
